@@ -1,16 +1,49 @@
-## Hi there 👋
+## Didac Sanchez Fontanet
 
-<!--
-**didacfontanet/didacfontanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Systems & Security professional based in Barcelona, Spain.
+Currently working at SEIDOR supporting enterprise identity operations
+for Generalitat de Catalunya departments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- Working in IT support & identity operations for public sector enterprise environments
+- Pursuing MSc in Cybersecurity at Universitat Oberta de Catalunya (UOC) — graduating June 2026
+- Focused on Microsoft identity stack: Active Directory, Entra ID, hybrid environments
+- Preparing SC-900 & SC-300 (Microsoft Identity & Access Administrator)
+- Cisco certifications: Junior Cybersecurity Analyst · Ethical Hacker
+
+---
+
+### Technical skills
+
+**Identity & Access**
+Active Directory · Microsoft Entra ID · Azure AD Connect · Conditional Access · RBAC · MFA · SSPR · VPN management
+
+**Security**
+Incident handling (N1/N1.5) · SIEM basics · Kali Linux · Wireshark · Aircrack-ng · Autopsy · Volatility
+
+**Tools & platforms**
+BMC Remedy/Helix · Microsoft 365 · Windows Server · PowerShell · Python (learning)
+
+---
+
+### Projects
+
+| Repository | Description |
+| [blue-team-lab](https://github.com/didacfontanet/blue-team-lab) | Blue team labs and defensive security exercises |
+
+---
+
+### Certifications
+
+- Cisco Junior Cybersecurity Analyst Career Path — 2026
+- Cisco Ethical Hacker — 2026
+- MSc Cybersecurity, UOC — in progress
+
+---
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/didac-sf) · Barcelona, Spain
